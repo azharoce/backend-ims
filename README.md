@@ -1,1 +1,3 @@
-# backend-ims
+# Backend Ims
+
+Inventory Management System
